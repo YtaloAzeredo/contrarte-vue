@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ytalo",
+      "location": "Brazil"
+    },
+    {
+      "id": 2,
+      "name": "Lucy",
+      "location": "Brazil"
+    }
+  ]
+}
